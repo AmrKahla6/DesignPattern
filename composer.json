@@ -1,0 +1,12 @@
+{
+    "name": "amr.kahla/design-patterns-course",
+    "description": "code examples for design patterns in php course",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Amr Kahla",
+            "email": "amrkahla6@gmail.com"
+        }
+    ],
+    "require": {}
+}
